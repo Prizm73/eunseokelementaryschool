@@ -127,8 +127,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="1dp"
-            android:textSize="10dp"
-            android:text="https://bitbucket.org/whdghks913/wondanghighschool" />
+            android:text="https://bitbucket.org/whdghks913/wondanghighschool"
+            android:textSize="10dp" />
 
         <!-- TODO 그래프 또는 칼로리 -->
 
